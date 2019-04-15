@@ -12,7 +12,7 @@
       }
     }
   ],
-  "mini-css-extract-plugin ../../../Development Enviroment\\next-learn-demo\\2-using-shared-components\\node_modules\\css-loader\\index.js??ref--5-1!../../../Development Enviroment\\next-learn-demo\\2-using-shared-components\\pages\\component\\cover.css": [
+  "mini-css-extract-plugin ../../../Development Enviroment\\next-learn-demo\\2-using-shared-components\\node_modules\\css-loader\\index.js??ref--5-1!../../../Development Enviroment\\next-learn-demo\\2-using-shared-components\\pages\\component\\footer.css": [
     {
       "modules": {
         "byIdentifier": {},
@@ -25,7 +25,7 @@
       }
     }
   ],
-  "mini-css-extract-plugin ../../../Development Enviroment\\next-learn-demo\\2-using-shared-components\\node_modules\\css-loader\\index.js??ref--5-1!../../../Development Enviroment\\next-learn-demo\\2-using-shared-components\\pages\\component\\header.css": [
+  "mini-css-extract-plugin ../../../Development Enviroment\\next-learn-demo\\2-using-shared-components\\node_modules\\css-loader\\index.js??ref--5-1!../../../Development Enviroment\\next-learn-demo\\2-using-shared-components\\pages\\component\\cover.css": [
     {
       "modules": {
         "byIdentifier": {},
@@ -90,7 +90,7 @@
       }
     }
   ],
-  "mini-css-extract-plugin ../../../Development Enviroment\\next-learn-demo\\2-using-shared-components\\node_modules\\css-loader\\index.js??ref--5-1!../../../Development Enviroment\\next-learn-demo\\2-using-shared-components\\pages\\component\\footer.css": [
+  "mini-css-extract-plugin ../../../Development Enviroment\\next-learn-demo\\2-using-shared-components\\node_modules\\css-loader\\index.js??ref--5-1!../../../Development Enviroment\\next-learn-demo\\2-using-shared-components\\pages\\component\\header.css": [
     {
       "modules": {
         "byIdentifier": {},
