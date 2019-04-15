@@ -1,0 +1,1 @@
+{"version":2,"name":"Super-Samii Protfolio","builds":[{"src":"package.json","use":"@now/next"}]}

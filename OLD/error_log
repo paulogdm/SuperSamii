@@ -1,0 +1,8 @@
+[18-Feb-2019 03:55:28 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user '	dominion_root'@'localhost' (using password: YES) in /home3/dominion/super-sami.com/function.php on line 4
+[18-Feb-2019 03:55:28 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/dominion/super-sami.com/function.php on line 14
+[18-Feb-2019 03:56:50 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user '	dominion_root'@'localhost' (using password: YES) in /home3/dominion/super-sami.com/function.php on line 4
+[18-Feb-2019 03:56:50 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/dominion/super-sami.com/function.php on line 14
+[18-Feb-2019 03:57:23 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user '	dominion_root'@'localhost' (using password: YES) in /home3/dominion/super-sami.com/function.php on line 4
+[18-Feb-2019 03:57:23 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/dominion/super-sami.com/function.php on line 14
+[18-Feb-2019 03:57:44 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user '	dominion_root'@'localhost' (using password: YES) in /home3/dominion/super-sami.com/function.php on line 4
+[18-Feb-2019 03:57:44 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/dominion/super-sami.com/function.php on line 14
