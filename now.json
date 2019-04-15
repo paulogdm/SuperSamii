@@ -1,5 +1,5 @@
 {"version":2,"name":"Super-Samii Protfolios ",
-    "builds":[{"src":"package.json","use":"@now/next"},{"src":"server.js","use":"@now/node"}
+    "builds":[{"src":"next.config.js","use":"@now/next"},{"src":"server.js","use":"@now/node"}
     ],
     "routes": [
         { "src": "/Portfolio/Websites", "dest": "/about?name=$name" },
