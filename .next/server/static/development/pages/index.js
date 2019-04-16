@@ -889,7 +889,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "E:\\Development Enviroment\\next-learn-demo\\2-using-shared-components\\pages\\component\\Cover.js";
+var _jsxFileName = "E:\\Now\\SuperSamii\\pages\\component\\Cover.js";
 
 
 
@@ -1081,6 +1081,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+var _jsxFileName = "E:\\Now\\SuperSamii\\pages\\component\\aboutme.js";
 
 
 
@@ -1102,36 +1103,136 @@ function (_React$Component) {
   Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(Aboutme, [{
     key: "render",
     value: function render() {
-      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 10
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
         className: "ACon",
-        id: "About"
+        id: "About",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 11
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "row"
+        className: "row",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 12
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "col-md-6 Acon1"
+        className: "col-md-6 Acon1",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 13
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "container"
+        className: "container",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 14
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h1", {
-        className: "Acon1h1"
+        className: "Acon1h1",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 15
+        },
+        __self: this
       }, "ABOUT ME"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
-        className: "Acon1P"
+        className: "Acon1P",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 16
+        },
+        __self: this
       }, "Specializing in Creating Softwares ranging form small to a Enterprise one. I seeks challenges and look forward form accomplisments."), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("button", {
         className: "btn btn-primary",
-        type: "button"
+        type: "button",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 18
+        },
+        __self: this
       }, "Button"))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "col-md-6 Acon2"
+        className: "col-md-6 Acon2",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 21
+        },
+        __self: this
       }, "s"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "col-md-6 Acon3"
+        className: "col-md-6 Acon3",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 24
+        },
+        __self: this
       }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "col-md-6 Acon4"
+        className: "col-md-6 Acon4",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 27
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "row"
+        className: "row",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 29
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "col-md-6 Acon41"
+        className: "col-md-6 Acon41",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 30
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "container"
-      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h1", null, "EAT", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null), "CODE", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null), "REPEAT", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null)))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "col-md-6 Acon42"
+        className: "container",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 31
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h1", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, "EAT", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 33
+        },
+        __self: this
+      }), "CODE", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 34
+        },
+        __self: this
+      }), "REPEAT", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 35
+        },
+        __self: this
+      })))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        className: "col-md-6 Acon42",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 39
+        },
+        __self: this
       }))))));
     }
   }]);
@@ -1184,6 +1285,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+var _jsxFileName = "E:\\Now\\SuperSamii\\pages\\component\\features.js";
 
 
 
@@ -1204,87 +1306,485 @@ function (_React$Component) {
   Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(Features, [{
     key: "render",
     value: function render() {
-      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
         class: "features-clean",
-        id: "Skills"
+        id: "Skills",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 10
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        class: "container"
+        class: "container",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 11
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        class: "intro"
+        class: "intro",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 12
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h2", {
-        class: "text-center"
+        class: "text-center",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 13
+        },
+        __self: this
       }, "MY\xA0", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("span", {
-        class: "F1"
+        class: "F1",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 13
+        },
+        __self: this
       }, "SKILLS")), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
-        class: "text-center"
+        class: "text-center",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 14
+        },
+        __self: this
       }, "Nunc luctus in metus eget fringilla. Aliquam sed justo ligula. Vestibulum nibh erat, pellentesque ut laoreet vitae. ")), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        class: "row features"
+        class: "row features",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 17
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        class: "col-sm-6 col-lg-4"
+        class: "col-sm-6 col-lg-4",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 18
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h3", {
-        class: "name F2"
-      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", null, "SQL SERVER"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
-        class: "description"
-      }, "Working in SQL as a career is never what I want. Its more like you have to know how to work with SQ, if you\u2019re a programmer. I have 4 years of experience of SQL as a Freelancer and as well as in a job with a different designation", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        class: "col-sm-6 col-lg-4"
+        class: "name F2",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, "SQL SERVER"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
+        class: "description",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 20
+        },
+        __self: this
+      }, "Working in SQL as a career is never what I want. Its more like you have to know how to work with SQ, if you\u2019re a programmer. I have 4 years of experience of SQL as a Freelancer and as well as in a job with a different designation", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 22
+        },
+        __self: this
+      }))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        class: "col-sm-6 col-lg-4",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 24
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h3", {
-        class: "name F3"
-      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", null, "NODEJS"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
-        class: "description"
-      }, "Nodejs is the best thing that happens to the developer although I have not work on nodejs a lot. However, I do have created API and apps on the nodejs server that can help me to retrieve\xA0data or upload data to a website such as woocommerce products.\xA0", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        class: "col-sm-6 col-lg-4"
+        class: "name F3",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 25
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 25
+        },
+        __self: this
+      }, "NODEJS"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 25
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
+        class: "description",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 26
+        },
+        __self: this
+      }, "Nodejs is the best thing that happens to the developer although I have not work on nodejs a lot. However, I do have created API and apps on the nodejs server that can help me to retrieve\xA0data or upload data to a website such as woocommerce products.\xA0", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 29
+        },
+        __self: this
+      }))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        class: "col-sm-6 col-lg-4",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 31
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h3", {
-        class: "name F3"
-      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", null, "JAVASCRIPT"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
-        class: "description"
-      }, "Great on working with javascript as most of the work in programming can easily be done with javascript. it is the easiest language and more fun language i know. I have 6 years of javascript development experience", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        class: "col-sm-6 col-lg-4"
+        class: "name F3",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, "JAVASCRIPT"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
+        class: "description",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 33
+        },
+        __self: this
+      }, "Great on working with javascript as most of the work in programming can easily be done with javascript. it is the easiest language and more fun language i know. I have 6 years of javascript development experience", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 35
+        },
+        __self: this
+      }))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        class: "col-sm-6 col-lg-4",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 37
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h3", {
-        class: "name F3"
-      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", null, "REACT NATIVE"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
-        class: "description"
-      }, "React Native is the easiest programming library of javascript, it helps me to build a cross-platform app in no time. I do have a year of react Native development experience.", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        class: "col-sm-6 col-lg-4"
+        class: "name F3",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 38
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 38
+        },
+        __self: this
+      }, "REACT NATIVE"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 38
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
+        class: "description",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 39
+        },
+        __self: this
+      }, "React Native is the easiest programming library of javascript, it helps me to build a cross-platform app in no time. I do have a year of react Native development experience.", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        class: "col-sm-6 col-lg-4",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 43
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h3", {
-        class: "name F2"
-      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", null, "ELECTRON"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
-        class: "description"
-      }, "With not a lot but decent amount of experience in the electron. I have developed an app in an electron\xA0for my boss. Apps like getting the sales and other info in his desktop as a small app.", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        class: "col-sm-6 col-lg-4"
+        class: "name F2",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 44
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 44
+        },
+        __self: this
+      }, "ELECTRON"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 44
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
+        class: "description",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 45
+        },
+        __self: this
+      }, "With not a lot but decent amount of experience in the electron. I have developed an app in an electron\xA0for my boss. Apps like getting the sales and other info in his desktop as a small app.", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 47
+        },
+        __self: this
+      }))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        class: "col-sm-6 col-lg-4",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 49
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h3", {
-        class: "name F3"
-      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", null, "JAVA DEVELOPER"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
-        class: "description"
-      }, "with over 2 years of Android development experience in a company. And can develop any android application via java. Also, have won a trophy in a solo vs squad competition in my institute.\xA0", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        class: "col-sm-6 col-lg-4"
+        class: "name F3",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 50
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 50
+        },
+        __self: this
+      }, "JAVA DEVELOPER"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 50
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
+        class: "description",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 51
+        },
+        __self: this
+      }, "with over 2 years of Android development experience in a company. And can develop any android application via java. Also, have won a trophy in a solo vs squad competition in my institute.\xA0", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 53
+        },
+        __self: this
+      }))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        class: "col-sm-6 col-lg-4",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 55
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h3", {
-        class: "name F2"
-      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", null, "C# DEVELOPER"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
-        class: "description"
-      }, "Proud Pro C# developer as can develop any desktop application via C# with over 2 years of nonprofessional and 2 years of professional experience in C# development.", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        class: "col-sm-6 col-lg-4"
+        class: "name F2",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 56
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 56
+        },
+        __self: this
+      }, "C# DEVELOPER"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 56
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
+        class: "description",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 57
+        },
+        __self: this
+      }, "Proud Pro C# developer as can develop any desktop application via C# with over 2 years of nonprofessional and 2 years of professional experience in C# development.", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 58
+        },
+        __self: this
+      }))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        class: "col-sm-6 col-lg-4",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 61
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h3", {
-        class: "name F3"
-      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", null, "ASP .NET DEVELOPER"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
-        class: "description"
-      }, "Asp is kind of outdated in 2019 because people have switched to other Languages like Javascript and php for Development purpose. I have started learning asp.net this December 2018. so I have not a lot\xA0but still worthy of mentioning experience\xA0in asp.net.", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        class: "col-sm-6 col-lg-4"
+        class: "name F3",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 62
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 62
+        },
+        __self: this
+      }, "ASP .NET DEVELOPER"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 62
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
+        class: "description",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 63
+        },
+        __self: this
+      }, "Asp is kind of outdated in 2019 because people have switched to other Languages like Javascript and php for Development purpose. I have started learning asp.net this December 2018. so I have not a lot\xA0but still worthy of mentioning experience\xA0in asp.net.", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 66
+        },
+        __self: this
+      }))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        class: "col-sm-6 col-lg-4",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 68
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h3", {
-        class: "name F2"
-      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", null, "PHP DEVELOPER"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
-        class: "description"
-      }, "Over 3 years of development experience in PHP, I can write anything on my beloved language PHP.", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        class: "col-sm-6 col-lg-4"
+        class: "name F2",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 69
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 69
+        },
+        __self: this
+      }, "PHP DEVELOPER"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 69
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
+        class: "description",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 70
+        },
+        __self: this
+      }, "Over 3 years of development experience in PHP, I can write anything on my beloved language PHP.", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 71
+        },
+        __self: this
+      }))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        class: "col-sm-6 col-lg-4",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 73
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h3", {
-        class: "name F3"
-      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", null, "WORDPRESS DEVELOPER"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
-        class: "description"
-      }, "Not a pro but can develop themes and plugins for WordPress.", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        class: "col-sm-6 col-lg-4"
+        class: "name F3",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 74
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 74
+        },
+        __self: this
+      }, "WORDPRESS DEVELOPER"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 74
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
+        class: "description",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 75
+        },
+        __self: this
+      }, "Not a pro but can develop themes and plugins for WordPress.", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 75
+        },
+        __self: this
+      }))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        class: "col-sm-6 col-lg-4",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 77
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h3", {
-        class: "name F2"
-      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", null, "REACT JS"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
-        class: "description"
+        class: "name F2",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 78
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("strong", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 78
+        },
+        __self: this
+      }, "REACT JS"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 78
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
+        class: "description",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 79
+        },
+        __self: this
       }, "Just a beginner in React js, But can definitely build websites with NEXT js\xA0"))))));
     }
   }]);
@@ -1339,7 +1839,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "E:\\Development Enviroment\\next-learn-demo\\2-using-shared-components\\pages\\component\\footer.js";
+var _jsxFileName = "E:\\Now\\SuperSamii\\pages\\component\\footer.js";
 
 
 
@@ -1440,6 +1940,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+var _jsxFileName = "E:\\Now\\SuperSamii\\pages\\component\\header.js";
 
 
 
@@ -1461,36 +1962,103 @@ function (_React$Component) {
   Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(Header, [{
     key: "render",
     value: function render() {
-      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_7___default.a, null, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("link", {
+      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 11
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_7___default.a, {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 12
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("link", {
         rel: "stylesheet",
-        href: "https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic"
+        href: "https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 13
+        },
+        __self: this
       }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("link", {
         rel: "stylesheet",
-        href: "https://fonts.googleapis.com/css?family=Cabin:700"
+        href: "https://fonts.googleapis.com/css?family=Cabin:700",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 14
+        },
+        __self: this
       }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("link", {
         rel: "stylesheet",
-        href: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+        href: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 15
+        },
+        __self: this
       }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("link", {
         rel: "stylesheet",
-        href: "https://fonts.googleapis.com/css?family=Montserrat"
+        href: "https://fonts.googleapis.com/css?family=Montserrat",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 16
+        },
+        __self: this
       }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("link", {
         rel: "stylesheet",
-        href: "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"
+        href: "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 17
+        },
+        __self: this
       }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("link", {
         rel: "stylesheet",
-        href: "https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css"
+        href: "https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 18
+        },
+        __self: this
       })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("nav", {
         className: " navii navbar navbar-light navbar-expand-md navbar navbar-expand-lg fixed-top",
-        id: "mainNav"
+        id: "mainNav",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 21
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "container"
+        className: "container",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 22
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_5___default.a, {
         href: '/index',
-        as: '/Home'
+        as: '/Home',
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 22
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("a", {
-        className: "navbar-brand js-scroll-trigger nav1a"
+        className: "navbar-brand js-scroll-trigger nav1a",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 22
+        },
+        __self: this
       }, "SUPER", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("span", {
-        className: "nav1s"
+        className: "nav1s",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 22
+        },
+        __self: this
       }, "SAMI"))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("button", {
         className: "navbar-toggler navbar-toggler-right",
         "data-toggle": "collapse",
@@ -1499,37 +2067,102 @@ function (_React$Component) {
         "aria-controls": "navbarResponsive",
         "aria-expanded": "false",
         "aria-label": "Toggle navigation",
-        value: "Menu"
+        value: "Menu",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 22
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("i", {
-        className: "fa fa-bars"
+        className: "fa fa-bars",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 23
+        },
+        __self: this
       })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
         className: "collapse navbar-collapse",
-        id: "navbarResponsive"
+        id: "navbarResponsive",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 24
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("ul", {
-        className: "nav navbar-nav ml-auto"
+        className: "nav navbar-nav ml-auto",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 25
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("li", {
         className: "nav-item nav-link js-scroll-trigger",
-        role: "presentation"
+        role: "presentation",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 26
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_5___default.a, {
-        href: "/#About"
+        href: "/#About",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 26
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("a", {
-        className: "nav-link  js-scroll-trigger"
+        className: "nav-link  js-scroll-trigger",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 26
+        },
+        __self: this
       }, "About ME"))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("li", {
         className: "nav-item nav-link js-scroll-trigger",
-        role: "presentation"
+        role: "presentation",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 27
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_5___default.a, {
-        href: "/#Skills"
+        href: "/#Skills",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 27
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("a", {
         className: "nav-link js-scroll-trigger",
-        href: ""
+        href: "",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 27
+        },
+        __self: this
       }, "Skills"))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("li", {
         className: "nav-item nav-link js-scroll-trigger",
-        role: "presentation"
+        role: "presentation",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 28
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_5___default.a, {
-        href: "/#Work"
+        href: "/#Work",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 28
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("a", {
         className: "nav-link js-scroll-trigger",
-        href: ""
+        href: "",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 28
+        },
+        __self: this
       }, "My Work"))))))));
     }
   }]);
@@ -1571,7 +2204,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "E:\\Development Enviroment\\next-learn-demo\\2-using-shared-components\\pages\\component\\testi.js";
+var _jsxFileName = "E:\\Now\\SuperSamii\\pages\\component\\testi.js";
 
 
 
@@ -1792,6 +2425,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+var _jsxFileName = "E:\\Now\\SuperSamii\\pages\\component\\work.js";
 
 
 
@@ -1813,19 +2447,78 @@ function (_React$Component) {
     key: "render",
     value: function render() {
       return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        id: "Work"
-      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("section", null, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "jumbotron text-center A1"
-      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h1", null, "MY", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("span", {
-        className: "A2"
-      }, "Work")), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
-        className: "A3"
-      }, "Always hungry"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", null))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "row A4"
+        id: "Work",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 10
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("section", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 11
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "col-md-4 A5"
+        className: "jumbotron text-center A1",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 12
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h1", {
-        className: "text-center"
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 14
+        },
+        __self: this
+      }, "MY", react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("span", {
+        className: "A2",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 15
+        },
+        __self: this
+      }, "Work")), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
+        className: "A3",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 17
+        },
+        __self: this
+      }, "Always hungry"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("p", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 22
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        className: "row A4",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 23
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        className: "col-md-4 A5",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 24
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h1", {
+        className: "text-center",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 27
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_5___default.a, {
         as: "/Portfolio/Websites",
         title: 'Websites Gallery',
@@ -1834,23 +2527,63 @@ function (_React$Component) {
           query: {
             name: 'websites'
           }
-        }
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 27
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("a", {
-        className: "A6"
+        className: "A6",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 28
+        },
+        __self: this
       }, "WEBSITES")))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "col-md-4 A7"
+        className: "col-md-4 A7",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 33
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h1", {
-        className: "text-center"
+        className: "text-center",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 36
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("a", {
         className: "A8",
-        href: "#"
+        href: "#",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 37
+        },
+        __self: this
       }, "MOBILE"))), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: "col-md-4 A9"
+        className: "col-md-4 A9",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 40
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h1", {
-        className: "text-center A10"
+        className: "text-center A10",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 43
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("a", {
         href: "#",
-        className: "A20"
+        className: "A20",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 44
+        },
+        __self: this
       }, "DESKTOP"))))));
     }
   }]);
@@ -1899,6 +2632,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+var _jsxFileName = "E:\\Now\\SuperSamii\\pages\\index.js";
 
 
 
@@ -1926,25 +2660,115 @@ function (_React$Component) {
   Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(Index, [{
     key: "render",
     value: function render() {
-      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_7___default.a, null, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("title", null, "SuperSami - Software Developer"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("link", {
+      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 17
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_7___default.a, {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 18
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("title", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, "SuperSami - Software Developer"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("link", {
         rel: "stylesheet",
-        href: "https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic"
+        href: "https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 20
+        },
+        __self: this
       }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("link", {
         rel: "stylesheet",
-        href: "https://fonts.googleapis.com/css?family=Cabin:700"
+        href: "https://fonts.googleapis.com/css?family=Cabin:700",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 21
+        },
+        __self: this
       }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("link", {
         rel: "stylesheet",
-        href: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+        href: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 22
+        },
+        __self: this
       }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("link", {
         rel: "stylesheet",
-        href: "https://fonts.googleapis.com/css?family=Montserrat"
+        href: "https://fonts.googleapis.com/css?family=Montserrat",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 23
+        },
+        __self: this
       }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("link", {
         rel: "stylesheet",
-        href: "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"
+        href: "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 24
+        },
+        __self: this
       }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("link", {
         rel: "stylesheet",
-        href: "https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css"
-      })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_component_header__WEBPACK_IMPORTED_MODULE_10__["default"], null), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_component_Cover__WEBPACK_IMPORTED_MODULE_12__["default"], null), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_component_aboutme__WEBPACK_IMPORTED_MODULE_13__["default"], null), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_component_work__WEBPACK_IMPORTED_MODULE_14__["default"], null), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_component_features__WEBPACK_IMPORTED_MODULE_15__["default"], null), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_component_testi__WEBPACK_IMPORTED_MODULE_16__["default"], null), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_component_footer__WEBPACK_IMPORTED_MODULE_11__["default"], null));
+        href: "https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 25
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_component_header__WEBPACK_IMPORTED_MODULE_10__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 28
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_component_Cover__WEBPACK_IMPORTED_MODULE_12__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 29
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_component_aboutme__WEBPACK_IMPORTED_MODULE_13__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 30
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_component_work__WEBPACK_IMPORTED_MODULE_14__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 31
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_component_features__WEBPACK_IMPORTED_MODULE_15__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_component_testi__WEBPACK_IMPORTED_MODULE_16__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 33
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_component_footer__WEBPACK_IMPORTED_MODULE_11__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 34
+        },
+        __self: this
+      }));
     }
   }]);
 
@@ -1984,7 +2808,7 @@ function (_React$Component) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! E:\Development Enviroment\next-learn-demo\2-using-shared-components\pages\index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! E:\Now\SuperSamii\pages\index.js */"./pages/index.js");
 
 
 /***/ }),

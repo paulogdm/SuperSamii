@@ -6370,7 +6370,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      source_map_support_1.rewriteStacktrace(error, "E:\\Development Enviroment\\next-learn-demo\\2-using-shared-components\\.next");
+      source_map_support_1.rewriteStacktrace(error, "E:\\Now\\SuperSamii\\.next");
       return error;
     }
   };
