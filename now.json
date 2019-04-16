@@ -1,6 +1,7 @@
 {
   "version":2,
   "name":"Super-Samii Protfolios ",
+  "public": true,
   "builds":[
     {"src":"next.config.js","use":"@now/next"}
   ],
