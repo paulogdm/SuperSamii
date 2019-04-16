@@ -33276,7 +33276,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 10:
+/***/ 11:
 /*!**********************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fabout&absolutePagePath=E%3A%5CDevelopment%20Enviroment%5Cnext-learn-demo%5C2-using-shared-components%5Cpages%5Cabout.js ***!
   \**********************************************************************************************************************************************************************/
@@ -33299,5 +33299,5 @@ module.exports = dll_6dc2816e14fab51b8269;
 
 /***/ })
 
-},[[10,"static/runtime/webpack.js","styles"]]]));;
+},[[11,"static/runtime/webpack.js","styles"]]]));;
 //# sourceMappingURL=about.js.map
