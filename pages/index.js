@@ -1,15 +1,15 @@
 import Link from 'next/link'
 import React from 'react'
 import Head from 'next/head'
-import "./static/bootstrap/css/bootstrap.min.css?h=e1729d32bd788d29d221ff129051e58a"
-import "./static/css/styles.min.css?h=2352637b27a8730bfe180c97baf4cf5c"
-import Header from './component/header'
-import Footer from './component/footer'
-import Cover from './component/Cover'
-import Aboutme from './component/aboutme'
-import Work from './component/work'
-import Features from './component/features'
-import Testi from './component/testi'
+import "../static/bootstrap/css/bootstrap.min.css?h=e1729d32bd788d29d221ff129051e58a"
+import "../static/css/styles.min.css?h=2352637b27a8730bfe180c97baf4cf5c"
+import Header from '../component/header'
+import Footer from '../component/footer'
+import Cover from '../component/Cover'
+import Aboutme from '../component/aboutme'
+import Work from '../component/work'
+import Features from '../component/features'
+import Testi from '../component/testi'
 
 export default class Index extends React.Component {
 render(){
